@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+	<file name="resources/authRouting.js">
+		<error line="57" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="61" column="22" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="72" column="36" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="77" column="31" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="77" column="60" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="111" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="129" column="29" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="138" column="34" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="166" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="170" column="38" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+	</file>
+	<file name="resources/movieRouting.js">
+		<error line="22" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="42" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="52" column="33" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="72" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="97" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="110" column="33" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="133" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="165" column="29" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="179" column="33" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="194" column="32" severity="error" message="'result' is defined but never used." source="jshint.W098" />
+		<error line="219" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="257" column="50" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="273" column="82" severity="error" message="'result' is defined but never used." source="jshint.W098" />
+		<error line="267" column="104" severity="error" message="'result' is defined but never used." source="jshint.W098" />
+		<error line="304" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="317" column="33" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="332" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="342" column="32" severity="error" message="'result' is defined but never used." source="jshint.W098" />
+		<error line="364" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="382" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="391" column="29" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="273" column="53" severity="error" message="'oldPoints' is not defined." source="jshint.W117" />
+	</file>
+	<file name="resources/userRouting.js">
+		<error line="21" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="47" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="56" column="29" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="81" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="117" column="28" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+	</file>
+	<file name="test/authTests.js">
+		<error line="19" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="6" column="5" severity="error" message="'support' is defined but never used." source="jshint.W098" />
+		<error line="10" column="5" severity="error" message="'authToken' is defined but never used." source="jshint.W098" />
+	</file>
+	<file name="test/moviesTests.js">
+		<error line="19" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="24" column="39" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="35" column="39" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="46" column="39" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="57" column="39" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="69" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="75" column="38" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="6" column="5" severity="error" message="'support' is defined but never used." source="jshint.W098" />
+	</file>
+	<file name="test/ratingsTests.js">
+		<error line="18" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="56" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="68" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="80" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="92" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="125" column="42" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="126" column="51" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="185" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="197" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="209" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="221" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="236" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="266" column="42" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="267" column="54" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="325" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="326" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="339" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="340" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="426" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="427" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="440" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="441" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="454" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="455" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+	</file>
+	<file name="test/usersTests.js">
+		<error line="20" column="5" severity="error" message="Missing &quot;use strict&quot; statement." source="jshint.E007" />
+		<error line="72" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="86" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="100" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="113" column="43" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="146" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="162" column="45" severity="error" message="Expected '===' and instead saw '=='." source="jshint.W116" />
+		<error line="211" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="212" column="47" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="213" column="42" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="214" column="46" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="232" column="45" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="233" column="47" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="234" column="42" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+		<error line="235" column="46" severity="error" message="Expected '!==' and instead saw '!='." source="jshint.W116" />
+	</file>
+</checkstyle>
